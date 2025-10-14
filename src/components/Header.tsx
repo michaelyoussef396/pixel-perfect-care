@@ -20,7 +20,7 @@ export const Header = () => {
           <a href="/ndis-services" className="text-sm font-medium hover:text-primary transition-colors">
             NDIS SERVICES
           </a>
-          <a href="/#about" className="text-sm font-medium hover:text-primary transition-colors">
+          <a href="/about-us" className="text-sm font-medium hover:text-primary transition-colors">
             ABOUT
           </a>
           <a href="/#faq" className="text-sm font-medium hover:text-primary transition-colors">
