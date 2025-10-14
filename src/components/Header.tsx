@@ -14,19 +14,19 @@ export const Header = () => {
         </div>
         
         <nav className="hidden md:flex items-center gap-8">
-          <a href="#home" className="text-sm font-medium hover:text-primary transition-colors">
+          <a href="/" className="text-sm font-medium hover:text-primary transition-colors">
             HOME
           </a>
-          <a href="#services" className="text-sm font-medium hover:text-primary transition-colors">
-            SERVICES
+          <a href="/ndis-services" className="text-sm font-medium hover:text-primary transition-colors">
+            NDIS SERVICES
           </a>
-          <a href="#about" className="text-sm font-medium hover:text-primary transition-colors">
+          <a href="/#about" className="text-sm font-medium hover:text-primary transition-colors">
             ABOUT
           </a>
-          <a href="#faq" className="text-sm font-medium hover:text-primary transition-colors">
+          <a href="/#faq" className="text-sm font-medium hover:text-primary transition-colors">
             FAQ
           </a>
-          <a href="#contact" className="text-sm font-medium hover:text-primary transition-colors">
+          <a href="/#contact" className="text-sm font-medium hover:text-primary transition-colors">
             CONTACT
           </a>
         </nav>
