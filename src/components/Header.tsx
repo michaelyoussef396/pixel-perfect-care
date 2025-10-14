@@ -10,7 +10,7 @@ export const Header = () => {
             <span className="text-primary">Care</span>
             <span className="text-accent">Remedy</span>
           </div>
-          <p className="hidden sm:block text-xs text-muted-foreground">Quality & Aged Care</p>
+          <p className="hidden sm:block text-xs text-muted-foreground">NDIS Provider</p>
         </div>
         
         <nav className="hidden md:flex items-center gap-8">
@@ -18,16 +18,16 @@ export const Header = () => {
             HOME
           </a>
           <a href="#services" className="text-sm font-medium hover:text-primary transition-colors">
-            NDIS SERVICES
-          </a>
-          <a href="#aged-care" className="text-sm font-medium hover:text-primary transition-colors">
-            AGED CARE
+            SERVICES
           </a>
           <a href="#about" className="text-sm font-medium hover:text-primary transition-colors">
             ABOUT
           </a>
+          <a href="#faq" className="text-sm font-medium hover:text-primary transition-colors">
+            FAQ
+          </a>
           <a href="#contact" className="text-sm font-medium hover:text-primary transition-colors">
-            CONTACT US
+            CONTACT
           </a>
         </nav>
         

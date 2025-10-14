@@ -15,12 +15,8 @@ export const FAQ = () => {
       answer: "Yes, we can help you through the whole process. Give one of our friendly staff a call on 02 7256 4646 and they'll walk you through the whole process.",
     },
     {
-      question: "What aged care services do you offer?",
-      answer: "We offer: Care Coordination, Domestic Assistance, Personal Care, Respite Care, Companionship & Social Support, Nursing Services, Transport Assistance, and Home Maintenance.",
-    },
-    {
       question: "What services do you offer for NDIS participants?",
-      answer: "We offer: Plan Management, Support Coordination, Therapeutic Supports, Community and Social Activities, Personal Activities, Development of Daily Living & Life Skills, Community Nursing Care, Household Tasks, Short-Term Accommodation, and Supported Independent Living.",
+      answer: "We offer a comprehensive range of NDIS services including: Plan Management, Support Coordination, Therapeutic Supports, Community and Social Activities, Personal Activities, Development of Daily Living & Life Skills, Community Nursing Care, Household Tasks, Short-Term Accommodation, and Supported Independent Living.",
     },
   ];
 

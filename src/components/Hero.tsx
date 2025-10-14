@@ -16,16 +16,16 @@ export const Hero = () => {
             </h1>
             
             <p className="text-lg md:text-xl text-foreground/80 max-w-xl">
-              Care Remedy is one of Sydney's leading aged care and NDIS providers. 
-              All of our programs are centred around helping participants achieve their goals.
+              Care Remedy is one of Sydney's leading NDIS providers. 
+              All of our programs are centred around helping participants achieve their goals and live their best life.
             </p>
             
             <div className="flex flex-wrap gap-4">
               <Button variant="hero" size="lg" className="text-base">
-                NDIS Services
+                Explore NDIS Services
               </Button>
-              <Button variant="hero" size="lg" className="text-base">
-                Aged Care Services
+              <Button variant="default" size="lg" className="text-base">
+                Contact Us Today
               </Button>
             </div>
           </div>

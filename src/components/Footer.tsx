@@ -11,7 +11,7 @@ export const Footer = () => {
               <span className="text-accent">Remedy</span>
             </h3>
             <p className="text-primary-foreground/80 mb-6">
-              Care Remedy is one of Sydney's leading aged care and NDIS service provider.
+              Care Remedy is one of Sydney's leading NDIS service providers, dedicated to helping participants achieve their goals.
             </p>
             
             <div className="flex gap-4">
@@ -45,7 +45,7 @@ export const Footer = () => {
           <div className="animate-fade-in" style={{ animationDelay: "0.1s" }}>
             <h4 className="text-xl font-bold mb-4">Quick Links</h4>
             <ul className="space-y-3">
-              {["Home", "NDIS Services", "Aged Care", "About", "Contact", "Privacy Policy"].map((link) => (
+              {["Home", "Services", "About", "FAQ", "Contact", "Privacy Policy"].map((link) => (
                 <li key={link}>
                   <a 
                     href={`#${link.toLowerCase().replace(/\s+/g, "-")}`}
